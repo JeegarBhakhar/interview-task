@@ -1,0 +1,12 @@
+com.example.interview.app-jetified-window-1.0.0-beta04-0 /Users/APPLE/.gradle/caches/transforms-3/960ec333f853e49425fccae410a3755e/transformed/jetified-window-1.0.0-beta04/res
+com.example.interview.app-jetified-annotation-experimental-1.1.0-1 /Users/APPLE/.gradle/caches/transforms-3/a70a7b59f24c8394e6bdb665e4b01ffb/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.interview.app-jetified-window-java-1.0.0-beta04-2 /Users/APPLE/.gradle/caches/transforms-3/b1e1e01dac530b506337917d05bffc9d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.interview.app-core-1.6.0-3 /Users/APPLE/.gradle/caches/transforms-3/bf13bfa1f27ca7a04970819b61bf63ec/transformed/core-1.6.0/res
+com.example.interview.app-main-4 /Users/APPLE/Downloads/flutter-interview-test-main/android/app/src/main/res
+com.example.interview.app-release-5 /Users/APPLE/Downloads/flutter-interview-test-main/android/app/src/release/res
+com.example.interview.app-pngs-6 /Users/APPLE/Downloads/flutter-interview-test-main/build/app/generated/res/pngs/release
+com.example.interview.app-resValues-7 /Users/APPLE/Downloads/flutter-interview-test-main/build/app/generated/res/resValues/release
+com.example.interview.app-rs-8 /Users/APPLE/Downloads/flutter-interview-test-main/build/app/generated/res/rs/release
+com.example.interview.app-mergeReleaseResources-9 /Users/APPLE/Downloads/flutter-interview-test-main/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.interview.app-mergeReleaseResources-10 /Users/APPLE/Downloads/flutter-interview-test-main/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.interview.app-merged_res-11 /Users/APPLE/Downloads/flutter-interview-test-main/build/app/intermediates/merged_res/release

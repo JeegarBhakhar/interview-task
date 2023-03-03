@@ -1,0 +1,4 @@
+#Fri Mar 03 11:25:02 IST 2023
+base.0=/Users/APPLE/Downloads/flutter-interview-test-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
